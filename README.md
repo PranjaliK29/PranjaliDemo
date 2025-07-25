@@ -1,4 +1,4 @@
 # PranjaliDemo
 First Git repository.
 <br>
-Author - Pranjali
+Author - Pranjali khairnar
